@@ -1,14 +1,22 @@
 # 1.install Ubuntu then ROS
 
-###1-Download VMware workstation
-###2-Download Ubuntu OS ISO file
-###3-Open Vmware Workstation
-###4-Setup Vmware Workstation
-###5-Insert the Ubuntu ISO file
-###6-Select the Ubuntu OS file
-###7-Setup Ubuntu OS
-###8-Restart Ubuntu after Installation
-###9-Welcome to Ubuntu
+1-Download VMware workstation
+
+2-Download Ubuntu OS ISO file
+
+3-Open Vmware Workstation
+
+4-Setup Vmware Workstation
+
+5-Insert the Ubuntu ISO file
+
+6-Select the Ubuntu OS file
+
+7-Setup Ubuntu OS
+
+8-Restart Ubuntu after Installation
+
+9-Welcome to Ubuntu
 
 ## Installation ROS
 
