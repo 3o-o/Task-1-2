@@ -125,3 +125,5 @@ setting /run_id to f1747230-f815-11ec-adc7-e95db5452547
 process[rosout-1]: started with pid [6097]
 started core service [/rosout]
 ```
+![The output](https://user-images.githubusercontent.com/86229247/176577676-101c7d27-9b9e-4dfc-a5ec-ebaeb4695133.png)
+
